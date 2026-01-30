@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kGopikaG48
-- 🕐 I’m interested in emerging technologies 
-- 📚I’m currently learning CSE
-- 💭I’m looking to collaborate on exciting projects
+- 🕐interested in emerging technologies 
+- 📚currently learning CSE
+
 
 
 <!---
